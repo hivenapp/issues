@@ -25,7 +25,7 @@ Steps to reproduce the behavior:
 4. Observe error
 
 **Expected behavior:** A clear and concise description of what you expected to happen.
-**Actual behavior:** What should actually happen, according to your judgement.
+**Actual behavior:** What actually happened, following your steps to reproduce.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
